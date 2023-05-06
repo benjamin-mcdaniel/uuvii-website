@@ -2,26 +2,28 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "uuvvii.com",
     "description": "",
-    "home_page_url": "https://uuvvii.com",
-    "feed_url": "https://uuvvii.com/feed.json",
+    "home_page_url": "https://uuvii.com",
+    "feed_url": "https://uuvii.com/feed.json",
     "user_comment": "",
+    "icon": "https://uuvii.com/media/website/My-project-1-31-2.png",
     "author": {
         "name": "The Author"
     },
     "items": [
         {
-            "id": "https://uuvvii.com/korean-style-tacos.html",
-            "url": "https://uuvvii.com/korean-style-tacos.html",
+            "id": "https://uuvii.com/korean-style-tacos.html",
+            "url": "https://uuvii.com/korean-style-tacos.html",
             "title": "Korean-style Tacos",
             "summary": "Korean-style tacos are a unique twist on the classic Mexican taco, combining savory Korean flavors with traditional Mexican ingredients. Featuring&hellip;",
             "content_html": "<p>Korean-style tacos are a unique twist on the classic Mexican taco, combining savory Korean flavors with traditional Mexican ingredients. Featuring spicy gochujang sauce and tangy kimchi, these tacos will be sure to tantalize your taste buds! Here's how to make them.</p>\n<p><strong>Ingredients:</strong></p>\n<ol>\n<li>- 3 tablespoons gochujang sauce (or substitute chili paste)</li>\n<li>- 1/4 cup vegetable oil</li>\n<li>- 2 cloves garlic, minced</li>\n<li>- 1 pound ground beef or pork</li>\n<li>- Salt and pepper, to taste</li>\n<li>- 4 cups of thinly sliced cabbage</li>\n<li>- 4 green onions, white and light green parts only, chopped into small pieces</li>\n<li>- 4 tablespoons sesame oil</li>\n<li>- 1/2 cup kimchi, chopped</li>\n<li>- 8 soft taco shells or flour tortillas</li>\n<li>- Toppings: sour cream, jalapeños, lettuce, cilantro, diced tomatoes</li>\n</ol>\n<p><strong>Preparation Work:</strong></p>\n<p>1. In a small bowl, mix gochujang sauce and oil together. Set aside.</p>\n<p>2. Heat a large skillet over medium heat and add the ground beef or pork. Cook until no longer pink, stirring frequently to break up the meat. Season with salt and pepper to taste. Drain off any excess fat from the cooked meat and discard it.</p>\n<p>3. Add garlic to the skillet and cook for an additional minute before removing from heat and setting aside.</p>\n<p>4. In a large bowl, combine cabbage, green onions, sesame oil and kimchi. Toss together until everything is evenly combined, then set aside.</p>\n<p><strong>Cooking Instructions:</strong></p>\n<p>1. Preheat oven to 375°F/190°C.</p>\n<p>2. Place taco shells or flour tortillas onto baking sheets and bake for 5 minutes, flipping them once halfway through cooking time. Remove from oven when done and let cool on wire racks while you finish the tacos filling.</p>\n<p>3. Heat a large skillet over medium heat with remaining vegetable oil from the gochujang sauce mixture and cook the prepared cabbage mixture until softened and wilted (about 5 minutes). Add cooked beef or pork back to the skillet and mix everything together until evenly combined.</p>\n<p>4. To assemble tacos, spoon beef-cabbage mixture onto each taco or tortilla shell. Top with desired toppings (sour cream, jalapeños, lettuce, cilantro, diced tomatoes) and serve immediately. Enjoy!</p>\n<p>Enjoy these delicious Korean-style tacos anytime you're in the mood for something different! With a zesty flavor that's sure to please everyone at your table, they'll be gone in no time – so make sure you make enough to keep everyone happy! Bon Appetit!</p>\n<p><strong>* Note:</strong> If desired, you can also top your tacos with some extra gochujang or kimchi for additional flavor. Enjoy!</p>",
+            "image": "https://uuvii.com/media/posts/1/slow-cooker-korean-beef-tacos-2.webp",
             "author": {
                 "name": "The Author"
             },
             "tags": [
             ],
             "date_published": "2023-05-06T01:02:50-07:00",
-            "date_modified": "2023-05-06T01:02:50-07:00"
+            "date_modified": "2023-05-06T01:18:46-07:00"
         }
     ]
 }

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://uuvvii.com/sitemap.xml
+Sitemap: https://uuvii.com/sitemap.xml

@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>uuvvii.com</title>
-    <link href="https://uuvvii.com/feed.xml" rel="self" />
-    <link href="https://uuvvii.com" />
-    <updated>2023-05-06T01:02:50-07:00</updated>
+    <link href="https://uuvii.com/feed.xml" rel="self" />
+    <link href="https://uuvii.com" />
+    <updated>2023-05-06T01:18:46-07:00</updated>
     <author>
         <name>The Author</name>
     </author>
-    <id>https://uuvvii.com</id>
+    <id>https://uuvii.com</id>
 
     <entry>
         <title>Korean-style Tacos</title>
         <author>
             <name>The Author</name>
         </author>
-        <link href="https://uuvvii.com/korean-style-tacos.html"/>
-        <id>https://uuvvii.com/korean-style-tacos.html</id>
+        <link href="https://uuvii.com/korean-style-tacos.html"/>
+        <id>https://uuvii.com/korean-style-tacos.html</id>
+        <media:content url="https://uuvii.com/media/posts/1/slow-cooker-korean-beef-tacos-2.webp" medium="image" />
 
-        <updated>2023-05-06T01:02:50-07:00</updated>
+        <updated>2023-05-06T01:18:46-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://uuvii.com/media/posts/1/slow-cooker-korean-beef-tacos-2.webp" alt="" />
                     Korean-style tacos are a unique twist on the classic Mexican taco, combining savory Korean flavors with traditional Mexican ingredients. Featuring&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://uuvii.com/media/posts/1/slow-cooker-korean-beef-tacos-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>Korean-style tacos are a unique twist on the classic Mexican taco, combining savory Korean flavors with traditional Mexican ingredients. Featuring spicy gochujang sauce and tangy kimchi, these tacos will be sure to tantalize your taste buds! Here's how to make them.</p>
 <p><strong>Ingredients:</strong></p>
 <ol>
