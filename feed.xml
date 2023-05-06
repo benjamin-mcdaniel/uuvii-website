@@ -3,12 +3,55 @@
     <title>uuvvii.com</title>
     <link href="https://uuvii.com/feed.xml" rel="self" />
     <link href="https://uuvii.com" />
-    <updated>2023-05-06T10:38:43-07:00</updated>
+    <updated>2023-05-06T10:43:35-07:00</updated>
     <author>
         <name>The Author</name>
     </author>
     <id>https://uuvii.com</id>
 
+    <entry>
+        <title>Wasabi chicken wrap </title>
+        <author>
+            <name>The Author</name>
+        </author>
+        <link href="https://uuvii.com/wasabi-chicken-wrap.html"/>
+        <id>https://uuvii.com/wasabi-chicken-wrap.html</id>
+        <media:content url="https://uuvii.com/media/posts/4/16bb0a3ab8ea98cfe8906135767f7bf4.jpeg" medium="image" />
+
+        <updated>2023-05-06T10:43:35-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://uuvii.com/media/posts/4/16bb0a3ab8ea98cfe8906135767f7bf4.jpeg" alt="" />
+                    This delicious and easy-to-make Wasabi chicken wrap is packed with flavor. It's made with a creamy wasabi sauce, adding an&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://uuvii.com/media/posts/4/16bb0a3ab8ea98cfe8906135767f7bf4.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>This delicious and easy-to-make Wasabi chicken wrap is packed with flavor. It's made with a creamy wasabi sauce, adding an interesting twist to classic chicken wraps. The recipe requires minimal preparation work and can be cooked in about 20 minutes – perfect for busy weeknights!</p>
+<p><strong>Ingredients:</strong></p>
+<p>• 2 boneless and skinless chicken breasts, cut into thin strips</p>
+<p>• 2 tablespoons olive oil</p>
+<p>• 1/4 cup soy sauce</p>
+<p>• 2 tablespoons wasabi paste (or more to taste)</p>
+<p>• 1/3 cup mayonnaise</p>
+<p>• 3 cups shredded lettuce</p>
+<p>• 4 wraps of your choice (such as whole wheat or spinach)</p>
+<p>• 2 tablespoons sesame seeds (optional)</p>
+<p><strong>Preparation:</strong></p>
+<p>1. Start by marinating the chicken in olive oil, soy sauce and wasabi paste for at least 15 minutes.</p>
+<p>2. In a small bowl, whisk together the mayonnaise and wasabi paste until fully combined. Set aside.</p>
+<p>3. Heat a large skillet over medium-high heat and add the chicken strips to the pan. Cook until golden brown and cooked through, about 5 minutes per side.</p>
+<p>4. Assemble your wraps by adding lettuce, cooked chicken strips and then drizzling with the wasabi mayo mixture. Sprinkle with sesame seeds if desired and serve!</p>
+<p><strong>Cooking Instructions:</strong></p>
+<p>1. Heat a large skillet over medium-high heat and add the chicken strips to the pan.</p>
+<p>2. Cook until golden brown and cooked through, about 5 minutes per side.</p>
+<p>3. Remove from heat and assemble your wraps by adding lettuce, cooked chicken strips and then drizzling with the wasabi mayo mixture.</p>
+<p>4. Sprinkle with sesame seeds if desired and serve!</p>
+<p>Hope you enjoy this delicious and easy-to-make Wasabi chicken wrap recipe. It's sure to become one of your favorites on any day! Feel free to adjust the amount of wasabi paste used depending on how spicy you like it. Have fun with it and let us know how it turns out. Enjoy!  Happy cooking!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chimichurri steak sandwich </title>
         <author>
