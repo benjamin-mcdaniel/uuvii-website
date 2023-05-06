@@ -3,12 +3,57 @@
     <title>uuvvii.com</title>
     <link href="https://uuvii.com/feed.xml" rel="self" />
     <link href="https://uuvii.com" />
-    <updated>2023-05-06T01:18:46-07:00</updated>
+    <updated>2023-05-06T10:36:34-07:00</updated>
     <author>
         <name>The Author</name>
     </author>
     <id>https://uuvii.com</id>
 
+    <entry>
+        <title>Thai-inspired Burrito Bowl </title>
+        <author>
+            <name>The Author</name>
+        </author>
+        <link href="https://uuvii.com/thai-inspired-burrito-bowl.html"/>
+        <id>https://uuvii.com/thai-inspired-burrito-bowl.html</id>
+        <media:content url="https://uuvii.com/media/posts/2/Tex-Mex-Burrito-Bowl.webp" medium="image" />
+
+        <updated>2023-05-06T10:36:34-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://uuvii.com/media/posts/2/Tex-Mex-Burrito-Bowl.webp" alt="" />
+                    This is a simple and tasty roasted pork dish that uses minimal ingredients but packs a lot of flavor. It's&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://uuvii.com/media/posts/2/Tex-Mex-Burrito-Bowl.webp" class="type:primaryImage" alt="" /></p>
+                <p>This is a simple and tasty roasted pork dish that uses minimal ingredients but packs a lot of flavor. It's perfect for an easy weeknight dinner or as part of a larger feast. The combination of sweet and salty flavors from the honey, brown sugar, soy sauce, garlic and rosemary makes it irresistible!</p>
+<p> </p>
+<p><strong>Ingredients:</strong></p>
+<p>- 4 cloves garlic, minced</p>
+<p>- 2 tablespoons olive oil</p>
+<p>- 1 tablespoon honey</p>
+<p>- 2 tablespoons brown sugar</p>
+<p>- 1 tablespoon soy sauce</p>
+<p>- 2 teaspoons dried rosemary leaves (or 1 teaspoon fresh)</p>
+<p>- Salt and pepper to taste</p>
+<p>- 2 pounds boneless pork shoulder/butt, cut into cubes about 1 inch in size</p>
+<p> </p>
+<p><strong>Preparation:</strong></p>
+<p>1. Preheat the oven to 350 degrees Fahrenheit (175 degrees Celsius).</p>
+<p>2. In a small bowl, combine the garlic, olive oil, honey, brown sugar, soy sauce and rosemary leaves. Mix together until all ingredients are thoroughly combined.</p>
+<p>3. Season the pork cubes with salt and pepper, then add them to the mixture in the bowl and toss until they are evenly coated.</p>
+<p>4. Pour out onto a baking sheet lined with parchment paper or aluminum foil and spread into an even layer.</p>
+<p>5. Place in preheated oven for 25-35 minutes, stirring halfway through cooking time so that each piece of pork is evenly cooked on all sides.</p>
+<p> </p>
+<p><strong>Serving Instructions:</strong></p>
+<p>1. Serve the pork cubes over a bed of steamed rice or quinoa, with a side of sautéed vegetables and any other desired toppings (such as diced avocado, chopped tomatoes, shredded cheese).</p>
+<p>2. For an easy Thai-inspired burrito bowl, fill a warmed tortilla shell with the steamed rice or quinoa, roasted pork cubes, sautéed vegetables and desired toppings.</p>
+<p>Enjoy!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Korean-style Tacos</title>
         <author>
